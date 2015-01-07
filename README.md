@@ -1,5 +1,9 @@
 ## Introduction
 
+This GIT repository contains my efforts to complete the first assignment for the Exploratory Data Coursera class.  It contains four R scripts and four png files, which represent the output from the four R scripts.  Each script begins by reading in a text file with global energy consumption data.  The rest of this README contains the original assignment.
+
+-----------------------------------
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
